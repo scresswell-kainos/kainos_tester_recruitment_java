@@ -1,0 +1,5 @@
+Scenario:
+Given an array of values.
+You want to find all pairs in that array which add up to a given value
+
+- Explain how would you do this programmatically
